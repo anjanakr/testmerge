@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_testmerge.timeout</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>timeout</name>
+        <script><![CDATA[var timeout = Class.create();
+timeout.prototype = {
+    initialize: function() {
+    },
+
+    type: 'timeout'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-07-16 17:01:00</sys_created_on>
+        <sys_id>5fc6fcf753223300cf70ddeeff7b121e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>timeout</sys_name>
+        <sys_package display_value="testmerge" source="x_testmerge">1c8d042edba233001f4b595fdf961962</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="testmerge">1c8d042edba233001f4b595fdf961962</sys_scope>
+        <sys_update_name>sys_script_include_5fc6fcf753223300cf70ddeeff7b121e</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-07-16 17:01:00</sys_updated_on>
+    </sys_script_include>
+</record_update>
