@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_testmerge.test_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>test_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-07-18 21:02:26</sys_created_on>
+        <sys_id>e0410828b7323300cf70e2b9de11a995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_testmerge.test_user</sys_name>
+        <sys_package display_value="testmerge" source="x_testmerge">1c8d042edba233001f4b595fdf961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testmerge">1c8d042edba233001f4b595fdf961962</sys_scope>
+        <sys_update_name>sys_user_role_e0410828b7323300cf70e2b9de11a995</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-07-18 21:02:26</sys_updated_on>
+    </sys_user_role>
+</record_update>

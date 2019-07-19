@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_testmerge_test</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-07-18 21:02:30</sys_created_on>
+        <sys_id>69418828b7323300cf70e2b9de11a9ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_testmerge_test</sys_name>
+        <sys_package display_value="testmerge" source="x_testmerge">1c8d042edba233001f4b595fdf961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testmerge">1c8d042edba233001f4b595fdf961962</sys_scope>
+        <sys_update_name>ua_table_licensing_config_69418828b7323300cf70e2b9de11a9ad</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-07-18 21:02:30</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
